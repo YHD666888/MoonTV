@@ -19,9 +19,9 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+    "ddzy": {
+      "api": "https://dadiapi.com/feifei2",
+      "name": "🔞大地资源"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
@@ -81,9 +81,9 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+    "AIvin": {
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "name": "🔞AIvin"
     }
   }
 }
