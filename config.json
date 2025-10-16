@@ -104,16 +104,10 @@
      "msn": {
       "api": "https://www.msnii.com/api/json.php",
       "name": "🔞美少女"
-      },
-        {
-      "key": "py_Miss",
-      "name": "🈲🔞MissAV(T4)",
-      "type": 4,
+     },
+  "MissAV": {
       "api": "https://py.doube.eu.org/spider?site=Miss",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
+      "name": "🈲🔞MissAV(T4)"
     }
   }
 }
